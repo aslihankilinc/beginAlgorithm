@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>beginAlgorithm.Faktoriyel</StartupObject>
+    <StartupObject>beginAlgorithm.beetweenTwoSets</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationFramework" />
@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="betweenTwoSets.cs" />
     <Compile Include="Faktoriyel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sihirliKare.cs" />
